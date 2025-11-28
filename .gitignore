@@ -1,4 +1,4 @@
-*.txt
+input.txt
 myvenv/*
 __pycache__/
 *.log

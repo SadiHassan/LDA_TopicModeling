@@ -1,4 +1,5 @@
 input.txt
+*.csv
 *.html
 *.png
 myvenv/*

@@ -7,6 +7,7 @@ nltk
 bertopic
 matplotlib
 networkx
+Jinja2
 pyvis
 sentence-transformers
 umap-learn

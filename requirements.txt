@@ -4,3 +4,10 @@ spacy
 pandas
 scikit-learn
 nltk
+bertopic
+matplotlib
+networkx
+pyvis
+sentence-transformers
+umap-learn
+hdbscan

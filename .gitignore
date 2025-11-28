@@ -1,4 +1,6 @@
 input.txt
+*.html
+*.png
 myvenv/*
 __pycache__/
 *.log
